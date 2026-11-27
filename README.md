@@ -2,7 +2,7 @@
 
 Progetto di **Intelligenza Artificiale 2 – A.A. 2026/27**
 
-**Autori:** Nome Cognome 1 (matricola 000000) · Nome Cognome 2 (matricola 000000)
+**Autori:** Allegra Caterina Braganti (matricola 2195429) · Francesco Castello (matricola 000000)
 
 ## Descrizione
 
@@ -65,8 +65,8 @@ Le versioni esatte usate per i risultati sono stampate nella prima cella del not
 ## Come riprodurre i risultati
 
 ```bash
-git clone <url-del-repository>
-cd <cartella-del-repository>
+git clone https://github.com/allegrabraganti/progetto-IA2.git
+cd progetto-IA2
 python -m venv .venv
 source .venv/bin/activate        # su Windows: .venv\Scripts\activate
 pip install -r requirements.txt
