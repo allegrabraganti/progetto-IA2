@@ -1,0 +1,12 @@
+,n,MAE,bias
+Gender = Female,112,0.158,0.003
+Gender = Male,92,0.183,0.024
+Ethnicity = Asian,57,0.165,0.003
+Ethnicity = Black or African-American,25,0.174,0.048
+Ethnicity = Hispanic/Latino,13,0.134,0.093
+Ethnicity = Multiracial,14,0.22,-0.083
+Ethnicity = White,95,0.168,0.011
+Group = 1,110,0.184,-0.001
+Group = 2,94,0.152,0.027
+Cosmetics = 0.0,138,0.173,0.032
+Cosmetics = 1.0,62,0.159,-0.019

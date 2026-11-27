@@ -1,0 +1,4 @@
+Scenario,MAE,RMSE,R²,|err|≤0.3 °C (%),|err|≤0.5 °C (%)
+Train FLIR → test FLIR,0.169,0.222,0.789,85.644,96.04
+Train FLIR → test ICI (cambio termocamera),0.188,0.234,0.765,79.208,96.04
+Train ICI → test ICI,0.175,0.225,0.783,81.683,96.535
